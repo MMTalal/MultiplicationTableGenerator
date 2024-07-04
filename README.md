@@ -43,4 +43,4 @@ You chose the multiplication table of 7, here we go:
 ## Author
 
 Mahmoud Mohamed Talal, 
-mm.tala-95@yahoo.com
+mm.talal-95@yahoo.com
